@@ -1,0 +1,1 @@
+("8.14" ta6nt ("a70b3dcbd6e8b3800e4f30353e9703c4969cf444" . "9506c7439369df50fe7ed7621a895d42b3830ffa") (collects #"br" #"main.rkt") (collects #"br" #"quicklang.rkt") (collects #"jsonic" #"reader.rkt") (collects #"racket" #"runtime-config.rkt"))
